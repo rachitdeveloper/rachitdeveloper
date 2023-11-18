@@ -6,7 +6,8 @@
 - Buy me a coffee : https://www.buymeacoffee.com/rachitdeveloper
 - Mail: rachityadavdeveloper@gmail.com
 - twitter: https://twitter.com/Rachitdeveloper
-- Discord: @rachitdeveloper 
+- Discord: @rachitdeveloper
+- Linkedin: www.linkedin.com/in/rachitdeveloper
 
 <!---
 rachitdeveloper/rachitdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
