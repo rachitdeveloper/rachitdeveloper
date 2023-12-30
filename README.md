@@ -3,9 +3,10 @@
 - 🌱 I’m currently working On My Ai SaaS 
 - 💞️ I’m looking to collaborate on some unique projects
 - 📫 Reach me Via the info:
-- Buy me a coffee : https://www.buymeacoffee.com/rachitdeveloper
-- Mail: rachityadavdeveloper@gmail.com
-- twitter: https://twitter.com/Rachitdeveloper
+- 🍵 Buy me a coffee : https://www.buymeacoffee.com/rachitdeveloper
+- 🥳 Please join my patreon community https://www.patreon.com/rachitdeveloper
+- ✉️ Mail: rachityadavdeveloper@gmail.com
+- ✖️ twitter: https://twitter.com/Rachitdeveloper
 - Discord: @rachitdeveloper
 - Linkedin: www.linkedin.com/in/rachitdeveloper
 
