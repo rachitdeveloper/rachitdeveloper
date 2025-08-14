@@ -31,13 +31,6 @@
 
 ---
 
-### 🌟 3D GitHub Contribution Graph
-<p align="center">
-  <img src="https://github.com/rachitdeveloper/rachitdeveloper/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
-</p>
-
----
-
 ### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rachitdeveloper&theme=react-dark" />
@@ -45,4 +38,4 @@
 
 ---
 
-<p align="center">✨ *"Turning caffeine into code & ideas into reality."* ✨</p>
+<p align="center">✨ Turning caffeine into code & ideas into reality. ✨</p>
