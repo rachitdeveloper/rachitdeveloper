@@ -1,6 +1,6 @@
 <!-- Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rachit+Yadav+👋;AI+Developer+%26+Automation+Geek;Building+Zyora+-+AI+Tool+for+Video+Editors;Let's+create+something+epic+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Rachit+Yadav+👋;AI+Developer+%26+Automation+Geek;Building+Zyora+-+AI+for+Video+Editors;Let's+create+something+epic+🚀" />
 </p>
 
 ---
